@@ -15,5 +15,5 @@ python train.py
 python predict.py
 ```
 
-Dataset
+Dataset:
 Used small custom dataset of cat & dog images.
